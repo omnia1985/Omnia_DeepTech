@@ -1,1 +1,6 @@
-
+streamlit==1.32.0
+numpy==1.26.4
+pandas==2.2.1
+opencv-python-headless==4.9.0.80
+mediapipe==0.10.11
+torch==2.2.1
